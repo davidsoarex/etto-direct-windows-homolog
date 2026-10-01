@@ -1,12 +1,12 @@
 ﻿# E•Direct para Windows
 
-Instalador interno de homologação atual: versão 0.1.1.
+Instalador interno de homologação atual: versão 0.1.2.
 
-Arquivo: E-Direct-Setup-0.1.1.exe
-SHA-256: 8EA156791AFF187AFE313402DC7E7550F90ABB9AEE8B0DBE31E9139E485665A6
+Arquivo: E-Direct-Setup-0.1.2.exe
+SHA-256: 2BF7550AF063B913061D88C5A9ABAB5C882D1E5CAD5E10D665C683C130C1F73B
 
-Código: `etto-direct-desktop` `9200fffbafa4311e8c9c3bf42942511a26e0b1dc`
+Código: `etto-direct-desktop` `514ac7a553d0be64911bd0e01e391295c892d455`
 
-O arquivo 0.1.0 continua no tag anterior e não deve ser instalado.
+Os arquivos 0.1.0 e 0.1.1 continuam nos tags anteriores.
 
-Este repositório não é o canal de atualização automática.
+A API lê `current.json` nesta branch. Este repositório não é o canal de atualização automática.
